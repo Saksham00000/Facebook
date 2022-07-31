@@ -1,0 +1,89 @@
+h1{
+  font-size: 35px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin: auto;
+  padding-left: 15px;
+}
+
+table{
+  width: 100px;
+}
+
+input{
+  text-align: center;
+  font-size: 20px;
+  padding: 20px 100px;
+  margin: 10px 0;
+  border-radius: 12px;
+  width: 200px;
+}
+input:hover{
+  background-color: #e6e6e6;
+}
+
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 10px 0 10px 0;
+}
+a{
+  color: #1aa3ff;
+  text-decoration: none;
+}
+a:hover{
+  color: #007acc;
+  text-decoration: underline;
+}
+
+
+.password{
+  font-size: 15px;
+  font-family: sans-serif;
+  padding-top: 5px;
+  color: #1aa3ff;
+  text-decoration: none;
+}
+.password:hover{
+  color: #007acc;
+}
+
+
+.First{
+  margin: 0 250px 0 250px;
+  padding: 200px 0 200px 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.First_half{
+  margin-right: 100px;
+}
+
+.Second_half{
+  text-align: center;
+}
+
+.btn{
+  text-align: center;
+  background-color: #1aa3ff;
+  border: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 15px 100px;
+  border-radius: 12px;
+  width: 400px;
+  margin: 10px 0;
+
+
+}
+.btn:hover{
+  background-color: #007acc;
+  font-size: 25px;
+}
+
+.Facebook_img{
+  width: 550px;
+  padding-bottom: 25px;
+}
